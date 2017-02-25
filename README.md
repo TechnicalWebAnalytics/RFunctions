@@ -1,6 +1,4 @@
 # RFunctions
-=======
-# RFunctions
 
 Repository of useful functions.
 
