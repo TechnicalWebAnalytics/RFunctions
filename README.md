@@ -3,7 +3,7 @@
 Repository of useful functions.
 
 Table of Contents
-[TOC]
+`[TOC]`
 
 # GA Referrals
 
