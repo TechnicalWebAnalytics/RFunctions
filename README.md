@@ -5,6 +5,7 @@ Repository of useful functions.
 ## Table of Contents
 
 [GA Refferals](#user-content-ga-referrals)
+
 AMPRestAPI
 
 # GA Referrals
