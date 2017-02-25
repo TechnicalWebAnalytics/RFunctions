@@ -35,7 +35,7 @@ Authorize your GA account
 
 ### Function
 
-see GAReferrals.R
+see [GAReferrals.R]
 
 ### Example
 
