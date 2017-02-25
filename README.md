@@ -4,7 +4,7 @@ Repository of useful functions.
 
 ## Table of Contents
 
-[GA Refferals](#user-content-ga-referrals)
+[GA Referrals](#user-content-ga-referrals)
 
 AMPRestAPI
 
@@ -35,7 +35,7 @@ Authorize your GA account
 
 ### Function
 
-see [GAReferrals.R]
+see [GAReferrals.R]('https://github.com/TechnicalWebAnalytics/RFunctions/blob/master/GAReferrals.R')
 
 ### Example
 
