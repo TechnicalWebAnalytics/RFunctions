@@ -35,7 +35,7 @@ Authorize your GA account
 
 ### Function
 
-see [GAReferrals.R]('https://github.com/TechnicalWebAnalytics/RFunctions/blob/master/GAReferrals.R')
+see [GAReferrals.R](https://github.com/TechnicalWebAnalytics/RFunctions/blob/master/GAReferrals.R)
 
 ### Example
 
