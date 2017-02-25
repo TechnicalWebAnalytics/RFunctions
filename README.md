@@ -2,11 +2,11 @@
 
 Repository of useful functions.
 
-Table of Contents
-[TOC]
+## Table of Contents
 
-GA Referrals
-============
+*[GA Refferals](#user-content-ga-referrals)
+
+# GA Referrals
 
 Description
 -----------
